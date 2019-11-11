@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=der-postillon
+Exec=webapp-container --webappUrlPatterns=https?://www.der-postillon.com/* https://www.der-postillon.com
+Icon=logo.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

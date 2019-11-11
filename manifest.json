@@ -1,0 +1,15 @@
+{
+    "name": "der-postillon.de",
+    "description": "der-postillon",
+    "architecture": "all",
+    "title": "der-postillon",
+    "hooks": {
+        "der-postillon": {
+            "apparmor": "der-postillon.apparmor",
+            "desktop":  "der-postillon.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Johan H van Breda <johan.van.breda@protonmail.com>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
